@@ -45,7 +45,7 @@ The trained model can be:
 
 ---
 ## 📂 Repository Structure
-
+```
 Audio-Classification-with-CNN/
 │
 ├── Audio Classification with CNN.ipynb # Main notebook
@@ -53,7 +53,7 @@ Audio-Classification-with-CNN/
 ├── models/ # Saved Keras or TFLite models
 ├── README.md # Project overview
 └── requirements.txt # Python dependencies
-
+```
 
 ## 🧩 Requirements
 
