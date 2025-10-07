@@ -10,6 +10,7 @@ The model is designed to be lightweight and deployable on **mobile devices** to 
 <p align="center">
   <img src="images/image2.png" alt="Sample Gesture" width="700"/>
 </p>
+
 ---
 
 ## 🧠 Project Overview
