@@ -4,8 +4,8 @@ This project demonstrates how **Convolutional Neural Networks (CNNs)** can be us
 The model is designed to be lightweight and deployable on **mobile devices** to support real-world environmental monitoring.
 
 ---
-![Spectrogram](images/image1.png)
-![Wave](images/image2.png)
+![Spectrogram](images/image1.png) { width=400px }
+![Wave](images/image2.png) { width=400px }
 
 ---
 
