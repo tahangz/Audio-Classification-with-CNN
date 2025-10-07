@@ -1,0 +1,7 @@
+python
+tensorflow
+librosa
+matplotlib
+numpy
+scikit-learn
+scaper
