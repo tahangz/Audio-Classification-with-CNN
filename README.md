@@ -54,9 +54,10 @@ Audio-Classification-with-CNN/
 ├── README.md # Project overview
 └── requirements.txt # Python dependencies
 
+
 ## 🧩 Requirements
 
-# Install all dependencies:
+### Install all dependencies:
 
 ```bash
 pip install -r requirements.txt
