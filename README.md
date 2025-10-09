@@ -1,7 +1,6 @@
 # 🌿 Audio Classification with CNN
 
-This project demonstrates how **Convolutional Neural Networks (CNNs)** can be used for **real-time audio classification** — detecting sounds such as *chainsaws*, *engines*, and *storms* in rainforest environments.  
-The model is designed to be lightweight and deployable on **mobile devices** to support real-world environmental monitoring.
+This project leverages Convolutional Neural Networks (CNNs) to perform real-time audio classification in rainforest environments, detecting sounds like chainsaws, engines, and storms. The model is lightweight and optimized for mobile deployment, supporting real-world environmental monitoring.
 
 ---
 <p align="center">
