@@ -2,11 +2,11 @@
 
 This project utilizes Convolutional Neural Networks (CNNs) to classify real-time audio in rainforest environments, detecting sounds such as chainsaws, engines, and storms.
 
-- Data: Audio signals are converted into spectrograms using Librosa, with training data generated from UrbanSound8K and rainforest recordings.
+- Data: Audio signals are converted into spectrograms using **Librosa**, with training data generated from **UrbanSound8K** and rainforest recordings.
 
-- Model: A Keras CNN is trained to recognize key sound categories and can be converted to TensorFlow Lite for mobile deployment.
+- Model: A **Keras** CNN is trained to recognize key sound categories and can be converted to **TensorFlow Lite** for mobile deployment.
 
-- Libraries & Frameworks: TensorFlow/Keras for modeling, Librosa for audio processing, Scaper for synthetic data generation.
+- Libraries & Frameworks: **TensorFlow/Keras** for modeling, **Librosa** for audio processing, **Scaper** for synthetic data generation.
 
 - Deployment: Lightweight and optimized for on-device inference on mobile devices for real-time environmental monitoring.
 
