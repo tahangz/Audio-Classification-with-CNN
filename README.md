@@ -1,6 +1,6 @@
-# 🌿 Audio Classification with CNN
+# Audio Classification with CNN
 
-This project uses Convolutional Neural Networks (CNNs) to classify real-time audio in rainforest environments, detecting sounds like chainsaws, engines, and storms.
+This project utilizes Convolutional Neural Networks (CNNs) to classify real-time audio in rainforest environments, detecting sounds such as chainsaws, engines, and storms.
 
 - Data: Audio signals are converted into spectrograms using Librosa, with training data generated from UrbanSound8K and rainforest recordings.
 
